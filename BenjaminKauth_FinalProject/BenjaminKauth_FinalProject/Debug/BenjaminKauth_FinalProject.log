@@ -1,0 +1,47 @@
+﻿Build started 12/14/2014 1:41:10 PM.
+     1>Project "C:\Users\Ben\Desktop\CMSC405\BenjaminKauth_FinalProject\BenjaminKauth_FinalProject\BenjaminKauth_FinalProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Benjamin_Knauth_Final_Project.cpp
+         Benjamin_Knauth_Final_Project.cpp
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(87): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(89): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(102): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(103): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(109): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(111): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(122): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(128): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(130): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(137): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(140): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(142): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(155): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(166): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(171): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(179): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(183): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(197): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(199): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(205): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(211): warning C4244: 'argument' : conversion from 'GLdouble' to 'GLfloat', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(229): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(233): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(234): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(235): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(324): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(326): warning C4244: 'argument' : conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(327): warning C4244: 'argument' : conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(328): warning C4244: 'argument' : conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(329): warning C4244: 'argument' : conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(330): warning C4244: 'argument' : conversion from 'double' to 'GLsizei', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(337): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(338): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjaminkauth_finalproject\benjaminkauth_finalproject\benjamin_knauth_final_project.cpp(357): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ben\Desktop\CMSC405\BenjaminKauth_FinalProject\Debug\BenjaminKauth_FinalProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ben\Desktop\CMSC405\BenjaminKauth_FinalProject\Debug\BenjaminKauth_FinalProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ben\Desktop\CMSC405\BenjaminKauth_FinalProject\Debug\BenjaminKauth_FinalProject.lib" /MACHINE:X86 Debug\Benjamin_Knauth_Final_Project.obj
+         BenjaminKauth_FinalProject.vcxproj -> C:\Users\Ben\Desktop\CMSC405\BenjaminKauth_FinalProject\Debug\BenjaminKauth_FinalProject.exe
+     1>Done Building Project "C:\Users\Ben\Desktop\CMSC405\BenjaminKauth_FinalProject\BenjaminKauth_FinalProject\BenjaminKauth_FinalProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.83

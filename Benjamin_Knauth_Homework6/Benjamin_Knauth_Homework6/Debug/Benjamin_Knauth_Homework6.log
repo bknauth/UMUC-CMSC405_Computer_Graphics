@@ -1,0 +1,40 @@
+﻿Build started 12/1/2014 1:29:04 PM.
+     1>Project "C:\Users\Ben\Desktop\CMSC405\Benjamin_Knauth_Homework6\Benjamin_Knauth_Homework6\Benjamin_Knauth_Homework6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Benjamin_Knauth_Homework6.cpp
+         Benjamin_Knauth_Homework6.cpp
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(26): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(73): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(89): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(108): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(109): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(110): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(116): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(117): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(127): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(141): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(154): warning C4805: '==' : unsafe mix of type 'GLboolean' and type 'bool' in operation
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(155): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(156): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(162): warning C4305: '-=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(163): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(172): warning C4244: 'initializing' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(174): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(190): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(191): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(192): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(193): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(194): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(195): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(196): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(197): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(215): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ben\desktop\cmsc405\benjamin_knauth_homework6\benjamin_knauth_homework6\benjamin_knauth_homework6.cpp(222): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ben\Desktop\CMSC405\Benjamin_Knauth_Homework6\Debug\Benjamin_Knauth_Homework6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ben\Desktop\CMSC405\Benjamin_Knauth_Homework6\Debug\Benjamin_Knauth_Homework6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ben\Desktop\CMSC405\Benjamin_Knauth_Homework6\Debug\Benjamin_Knauth_Homework6.lib" /MACHINE:X86 Debug\Benjamin_Knauth_Homework6.obj
+         Benjamin_Knauth_Homework6.vcxproj -> C:\Users\Ben\Desktop\CMSC405\Benjamin_Knauth_Homework6\Debug\Benjamin_Knauth_Homework6.exe
+     1>Done Building Project "C:\Users\Ben\Desktop\CMSC405\Benjamin_Knauth_Homework6\Benjamin_Knauth_Homework6\Benjamin_Knauth_Homework6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.75
